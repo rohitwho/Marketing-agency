@@ -26,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.head div {
+.head nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,12 +34,12 @@ body {
     font-size: 20px;
 }
 
-.head div ul {
+.head nav ul {
     list-style-type: none;
 }
 
 
-.head div ul li {
+.head nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -55,7 +55,7 @@ p {
 
 
 /* the section below  represent the cover photo*/
-.hero {
+#hero {
     height: 100vh;
     width: 100%;
     margin-bottom: 25px;
