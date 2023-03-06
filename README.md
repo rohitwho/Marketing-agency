@@ -13,3 +13,4 @@ To view the source code and make changes please use code Editor (VS Code). you c
 
 
 # license
+Please refer to the license section in the repository.
